@@ -1,0 +1,22 @@
+{
+  "name": "machine-js",
+  "version": "0.0.1",
+  "description": "Saves confusion by pointing users to the machineJS repo they're looking for",
+  "main": "None",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/climbsRocks/machine-js"
+  },
+  "keywords": [
+    "machineJS"
+  ],
+  "author": "Preston Parry <climbsbytes@gmail.com> (prestonparry.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/climbsRocks/machine-js/issues"
+  },
+  "homepage": "https://github.com/climbsRocks/machine-js"
+}
